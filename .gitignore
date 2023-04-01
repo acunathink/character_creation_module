@@ -1,5 +1,7 @@
 # local environment trash
 .vscode/
+venv_w*
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
